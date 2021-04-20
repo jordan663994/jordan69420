@@ -1,0 +1,5 @@
+RARE is a token with a constanly decreasing supply(on the RARE mainnet). It alows for development like ETH does, but there are no miners. let me explain,
+the token is mined entirely on a central "miner node" that gets absolutly nothing, the node is funded by the sale of RARE tokens, of which there is a limmited
+supply. as of writing this 3% of all RARE tokens have been sold. RARE is burned when you pay a gas fee. thus creating Scarcity, lol. once the bridge is up, I 
+will regulate the gas fees via the miner node(at a constantly decreasing rate). all of this leads to the price of RARE going up over time. as of now, you need to
+email help.scarcity@gmail.com to submit a request to transfer Expasnse RARE tokens to the RARE Mainnet and back.
